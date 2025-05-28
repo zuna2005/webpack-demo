@@ -23,7 +23,7 @@ project-root/
 ├── dist/                  # Build output (auto-generated)
 ├── src/
 │   ├── index.js           # Main entry point
-│   ├── helper.ts           # Example TypeScript file
+│   ├── helper.ts          # Example TypeScript file
 │   ├── style.scss         # Sample SCSS file
 │   └── image.jpg          # Sample image
 ├── .gitignore
