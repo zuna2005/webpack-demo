@@ -1,0 +1,27 @@
+/* .hello {
+  color: red;
+} */
+
+/* $font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+} */
+
+$font-stack: Helvetica, sans-serif;
+$body-color: rgb(11, 10, 94);
+$body-bg-color: rgb(134, 218, 235);
+$img-size: 200px;
+
+body {
+  font: 100% $font-stack;
+  color: $body-color;
+  background-color: $body-bg-color;
+}
+
+img {
+  width: $img-size;
+  height: $img-size;
+}
